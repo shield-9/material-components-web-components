@@ -1,6 +1,6 @@
 {
-  "name": "@material/mwc-button",
-  "version": "0.22.1",
+  "name": "@shield-9/mwc-button",
+  "version": "0.22.1-fix",
   "description": "Material Design button web component",
   "keywords": [
     "material design",
