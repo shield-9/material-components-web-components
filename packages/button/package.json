@@ -28,6 +28,7 @@
   "devDependencies": {
     "@material/button": "=13.0.0-canary.b47dd37a6.0",
     "@material/elevation": "=13.0.0-canary.b47dd37a6.0",
+    "@material/mwc-base": "^0.22.1",
     "@material/ripple": "=13.0.0-canary.b47dd37a6.0",
     "@material/shape": "=13.0.0-canary.b47dd37a6.0",
     "@material/theme": "=13.0.0-canary.b47dd37a6.0"
